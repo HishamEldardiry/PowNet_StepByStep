@@ -1,0 +1,2 @@
+name,unit_type,fuel_type,max_capacity,min_capacity,heat_rate,operation_cost,fixed_cost,startup_cost,ramp_rate,min_uptime,min_downtime
+KAMPONGCHAMGTS,oil_ic,oil,10.74,4,10.33,3.17,1.5,50,11,1,1
