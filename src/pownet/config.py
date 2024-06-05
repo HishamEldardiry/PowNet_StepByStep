@@ -107,7 +107,7 @@ def get_steps() -> int:
 def get_simday() -> int:
     ''' Get the user selection for simulated day.
     '''
-    return CONFIG.getint('USER DEFINED INPUTS', 'SIMDAY')
+    return CONFIG.getint('USER DEFINED INPUTS', 'SIM_DAY')
 
 def get_timehorizon() -> int:
     ''' Get the user selection for simulated time horizon in hours.
